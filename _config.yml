@@ -6,11 +6,11 @@
 title: Neon Frame App
 email: contact@sandoche.com
 description: Free to use static landing page template to showcase your mobile app
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mobiledevpro.github.io/neonframe.page" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/neonframe.page" # the subpath of your site, e.g. /blog
+url: "https://mobiledevpro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
-twitter_username: sandochee
-github_username:  sandoche
+twitter_username: mobiledev_pro
+github_username:  mobiledevpro
 author: Sandoche Adittane
 logo: assets/images/large-logo.png
 twitter:

@@ -3,7 +3,7 @@
   "short_name": "Mobile App Name",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "/neonframe.page/",
   "description": "A super tagline for the mobile app",
   "scope": "/",
   "theme_color": "#efeeff",
