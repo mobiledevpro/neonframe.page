@@ -1,16 +1,20 @@
 app:
   screenshots: Screenshots
-  description: Description
-  featured: Featured in
+  #description: Description
+  #featured: Featured in
 
 footer:
-  copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
+  copyright: Made with ❤️ by <a href="https://bento.me/mobiledevpro" target="_blank">Dmitri Chernysh</a>
   links:
+    - title: YouTube
+      url: https://youtube.com/@mobiledevpro
+    - title: Instagram
+      url: https://instagr.am/mobiledevpro
     - title: Github
-      url: https://github.com/sandoche/Mobile-app-landingpage-template
+      url: https://github.com/dmitriy-chernysh
       target: _blank
     - title: Donate
-      url: https://paypal.me/kanbanote
+      url: https://ko-fi.com/mobiledevpro
       target: _blank
-    - title: Privacy
-      url: /privacy
+#    - title: Privacy
+#      url: /privacy

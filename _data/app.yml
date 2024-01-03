@@ -1,21 +1,20 @@
-name: Mobile App Name
-description: A super tagline for the mobile app
-full_description: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
+name: Neon Frame
+description: Highlight screenshots you're sharing to social media in three clicks
+#full_description: 'A more complete description of the mobile app<br>
+#<br>With a lot of features:
+#<br>- Feature 1
+#<br>- Feature 2
+#<br>- Feature 3'
 android: https://google.com
-iOS: ""
-web: ""
+iOS: false
+web: false
 screenshots:
   - 1.png
   - 2.png
   - 3.png
-  - 4.png
-producthunt: ""
-companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: producthunt.png
+producthunt: false
+#companies:
+#  - url: https://telegra.ph/Replace-this-link-07-23
+#    image: androidpolice.png
+#  - url: https://telegra.ph/Replace-this-link-07-23
+#    image: producthunt.png
