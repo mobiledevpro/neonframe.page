@@ -6,8 +6,8 @@
 title: Neon Frame App
 email: support@mobile-dev.pro
 description: Highlight screenshots you're sharing to social media in two clicks
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://mobiledevpro.github.io/neonframe.page" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/neonframe.page" # the subpath of your site, e.g. /blog
+url: "https://mobiledevpro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#FF191C1D'
 twitter_username: mobiledev_pro
 github_username:  mobiledevpro
