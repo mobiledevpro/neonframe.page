@@ -44,7 +44,9 @@ jobs:
             gem install bundler
             bundle install
       - name: npm install
-        run: npm install
+        run: | 
+           npm install
+           npm audit fix
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
