@@ -5,15 +5,15 @@ full_description: 'A more complete description of the mobile app<br>
 <br>- Feature 1
 <br>- Feature 2
 <br>- Feature 3'
-android: https://telegra.ph/Replace-this-link-07-23
-iOS: 
-web: 
+android: https://google.com
+iOS: ""
+web: ""
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
-producthunt: https://telegra.ph/Replace-this-link-07-23
+producthunt: ""
 companies:
   - url: https://telegra.ph/Replace-this-link-07-23
     image: androidpolice.png
