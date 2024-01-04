@@ -5,7 +5,7 @@
 
 title: Neon Frame App
 email: support@mobile-dev.pro
-description: Highlight screenshots you're sharing to social media in 3 taps
+description: Highlight screenshots you're sharing to social media
 baseurl: "/neonframe.page" # the subpath of your site, e.g. /blog
 url: "https://mobiledevpro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#FF191C1D'
@@ -29,8 +29,8 @@ github: false
 
 ### Google webmaster tools, Google Analytics, Doorbell and Cookie consent uncomment and put the API key
 #webmaster_verifications:
-#  google: verification_code
-#google_analytics: UA-XXXXXXXXX-X
+#google: verification_code
+google_analytics: G-7J55TB6YYJ
 #doorbell:
 #  id: doorbell_id
 #  appKey: doorbell_appKey
