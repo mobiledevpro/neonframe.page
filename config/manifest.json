@@ -1,11 +1,11 @@
 {
-  "name": "Mobile App Name",
-  "short_name": "Mobile App Name",
+  "name": "Neon Frame App",
+  "short_name": "Neon Frame",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/neonframe.page/",
-  "description": "A super tagline for the mobile app",
+  "description": "Highlight screenshots you're sharing to social media in 3 taps",
   "scope": "/",
-  "theme_color": "#efeeff",
+  "theme_color": "#FF191C1D",
   "background_color": "#FF191C1D"
 }

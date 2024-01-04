@@ -1,6 +1,6 @@
 app:
   screenshots: Screenshots
-  description: Description
+  #description: Description
   #featured: Featured in
 
 footer:
@@ -8,13 +8,12 @@ footer:
   links:
     - title: YouTube
       url: https://youtube.com/@mobiledevpro
+      target: _blank
     - title: Instagram
       url: https://instagr.am/mobiledevpro
-    - title: Github
-      url: https://github.com/dmitriy-chernysh
       target: _blank
-    - title: Donate
-      url: https://ko-fi.com/mobiledevpro
+    - title: Github
+      url: https://github.com/mobiledevpro
       target: _blank
 #    - title: Privacy
 #      url: /privacy
