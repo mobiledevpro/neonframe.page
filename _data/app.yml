@@ -1,5 +1,5 @@
 name: Neon Frame
-description: Highlight screenshots you're sharing to social media in 3 taps \n Soon on Google Play
+description: Highlight screenshots you're sharing to social media in 3 taps. Soon on Google Play.
 #full_description: 'A more complete description of the mobile app'
 #<br>With a lot of features:
 #<br>- Feature 1
@@ -9,9 +9,11 @@ android: false
 iOS: false
 web: false
 screenshots:
+  - 0.png
   - 1.png
   - 2.png
   - 3.png
+  - 4.png
 producthunt: false
 #companies:
 #  - url: https://telegra.ph/Replace-this-link-07-23
