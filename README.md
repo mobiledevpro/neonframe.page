@@ -10,6 +10,8 @@
 .github/workflows/jekyll.yml
 ```
 
+### [Article how to easily make the landing with GitHub Pages](https://www.linkedin.com/pulse/beautiful-landing-mobile-app-github-pages-dmitri-chernysh-tfakf/)
+##
 
 ## 💡 Features
 Mobile App Landing Page Template comes with pre-installed features and options:
