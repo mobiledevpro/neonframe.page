@@ -1,11 +1,15 @@
-Based on the original [template created by Sandoche](https://github.com/sandoche/Mobile-app-landingpage-template)
-
-
-<h1 align="center">Mobile App Landing Page Template</h1>
 
 
 
-📱 Free to use static generated landing page template for your mobile app
+<h1 align="center">Mobile App Landing for GitHub Pages</h1>
+
+## Made for [NeonFrame.app](https://neonframe.app)
+
+### Based on the original [template created by Sandoche](https://github.com/sandoche/Mobile-app-landingpage-template) and adapted to use with GitHub Actions:
+```
+.github/workflows/jekyll.yml
+```
+
 
 ## 💡 Features
 Mobile App Landing Page Template comes with pre-installed features and options:
@@ -26,10 +30,7 @@ Mobile App Landing Page Template comes with pre-installed features and options:
 ## ✨ Demo
 Check out websites using the Mobile App Template:
 - https://mobileapplandingpage.learn.uno (demo website)
-- https://gitnews.learn.uno
-- https://textblast.learn.uno
-- https://infinideas.learn.uno
-- https://www.therandominion.com/
+- https://neonframe.app
 
 ## 📖 How to use
 
