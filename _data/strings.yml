@@ -15,5 +15,7 @@ footer:
     - title: GitHub
       url: https://github.com/dmitriy-chernysh
       target: _blank
-#    - title: Privacy
-#      url: /privacy
+    - title: Privacy
+      url: /privacy
+    - title: Terms
+      url: /terms
