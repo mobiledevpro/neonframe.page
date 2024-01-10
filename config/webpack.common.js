@@ -18,6 +18,10 @@ module.exports = {
       template: './_src/template/default.html',
       filename: '../_layouts/default.html',
     }),
+    new HtmlWebpackPlugin({
+      template: './_src/template/default_without_footer.html',
+      filename: '../_layouts/default_without_footer.html',
+    }),
     new MiniCssExtractPlugin(),
     new CopyWebpackPlugin({
       patterns:[
