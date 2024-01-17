@@ -75,6 +75,11 @@ npm start
 npm run build
 ```
 
+### Update gem version (Gemfile.lock)
+```
+   bundle install
+```
+
 ### More documentation
 This templates uses [Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate), read more documentation there.
 
