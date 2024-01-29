@@ -6,14 +6,17 @@ app:
 footer:
   copyright: Made with ❤️ by <a href="https://bento.me/mobiledevpro" target="_blank">Dmitri Chernysh</a>
   links:
-    - title: YouTube
-      url: https://youtube.com/@mobiledevpro
-      target: _blank
     - title: Instagram
       url: https://instagr.am/mobiledevpro
       target: _blank
+    - title: YouTube
+      url: https://youtube.com/@mobiledevpro
+      target: _blank
     - title: GitHub
       url: https://github.com/dmitriy-chernysh
+      target: _blank
+    - title: X
+      url: https://twitter.com/mobiledev_pro
       target: _blank
     - title: Privacy
       url: /privacy

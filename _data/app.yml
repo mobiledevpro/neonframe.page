@@ -1,11 +1,11 @@
 name: Neon Frame
-description: Highlight screenshots you're sharing to social media. Soon on Google Play.
+description: Highlight screenshots you're sharing to social media - Instagram Stories, Reels, Youtube Shorts, etc.
 #full_description: 'A more complete description of the mobile app'
 #<br>With a lot of features:
 #<br>- Feature 1
 #<br>- Feature 2
 #<br>- Feature 3'
-android: false
+android: https://play.google.com/store/apps/details?id=com.mobiledevpro.neonframe.app
 iOS: false
 web: false
 screenshots:
