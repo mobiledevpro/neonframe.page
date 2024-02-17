@@ -1,6 +1,7 @@
 app:
   screenshots: Screenshots
-  #description: Description
+  description: What's new
+
   #featured: Featured in
 
 footer:
@@ -15,7 +16,7 @@ footer:
     - title: GitHub
       url: https://github.com/dmitriy-chernysh
       target: _blank
-    - title: X
+    - title: Twitter/X
       url: https://twitter.com/mobiledev_pro
       target: _blank
     - title: Privacy
