@@ -1,10 +1,10 @@
 name: Neon Frame
-description: Highlight screenshots you're sharing to social media - Instagram Stories, Reels, Youtube Shorts, etc.
+description: Highlight screenshots you're sharing to social media - Instagram Stories, Reels, Twitter, LinkedIn, etc.
 full_description: '<b>v1.1.0 (Feb 16, 2024)</b><br>
 <br>- Added a new screen with sharing options once the image is exported
 <br>- Improved an image processing. Export takes less time now
 <br>- Added a new overview video to Google Play'
-android: https://play.google.com/store/apps/details?id=com.mobiledevpro.neonframe.app
+android: https://play.google.com/store/apps/details?id=com.mobiledevpro.neonframe.app&utm_source=landing
 iOS: false
 web: false
 screenshots:
