@@ -1,6 +1,9 @@
 name: Neon Frame
 description: Highlight screenshots you're sharing to social media - Instagram Stories, Reels, Twitter, LinkedIn, etc.
-full_description: '<b>v1.1.0 (Feb 16, 2024)</b><br>
+full_description: '<b>v1.2.0 (Mar 11, 2024)</b><br>
+<br>- Now you can add a background color and change the size: 1:1, 4:3, 9:16 for Instagram Stories, 2:1 for Twitter, 1.91:1 for LinkedIn
+<br>
+<br><b>v1.1.0 (Feb 16, 2024)</b><br>
 <br>- Added a new screen with sharing options once the image is exported
 <br>- Improved an image processing. Export takes less time now
 <br>- Added a new overview video to Google Play'
