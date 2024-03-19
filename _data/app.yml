@@ -1,6 +1,12 @@
 name: Neon Frame
 description: Highlight screenshots you're sharing to social media - Instagram Stories, Reels, Twitter, LinkedIn, etc.
-full_description: '<b>v1.2.0 (Mar 11, 2024)</b><br>
+full_description: '<b>v1.3.0 (Mar 18, 2024)</b><br>
+<br>- Added ability to receive the image from other apps via Android Sharesheet dialog
+<br>- Pinch to zoom-in/zoom-out the image when background is turned on
+<br>- Fix for splash screen on Android 12 and lower
+<br>- Minor UI fixes
+<br>
+<br><b>v1.2.0 (Mar 11, 2024)</b><br>
 <br>- Now you can add a background color and change the size: 1:1, 4:3, 9:16 for Instagram Stories, 2:1 for Twitter, 1.91:1 for LinkedIn
 <br>
 <br><b>v1.1.0 (Feb 16, 2024)</b><br>
