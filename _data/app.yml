@@ -1,6 +1,10 @@
 name: Neon Frame
 description: Highlight screenshots you're sharing to social media - Instagram Stories, Reels, Twitter, LinkedIn, etc.
-full_description: '<b>v1.3.0 (Mar 18, 2024)</b><br>
+full_description: '<b>v1.4.0 (Mar 29, 2024)</b><br>
+<br>- Add own colors to glow and background
+<br>- Remove existing colors (long tap on color to activate a removing mode)
+<br>
+<br><b>v1.3.0 (Mar 18, 2024)</b><br>
 <br>- Added ability to receive the image from other apps via Android Sharesheet dialog
 <br>- Pinch to zoom-in/zoom-out the image when background is turned on
 <br>- Fix for splash screen on Android 12 and lower
