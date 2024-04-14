@@ -26,11 +26,10 @@ android: https://play.google.com/store/apps/details?id=com.mobiledevpro.neonfram
 iOS: false
 web: false
 screenshots:
-  - 0.png
-  - 1.png
-  - 2.png
-  - 3.png
-  - 4.png
+  - 01-screenshot.png
+  - 02-screenshot.png
+  - 03-screenshot.png
+  - 04-screenshot.png
 producthunt: false
 #companies:
 #  - url: https://telegra.ph/Replace-this-link-07-23
