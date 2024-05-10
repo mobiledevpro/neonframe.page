@@ -1,6 +1,10 @@
 name: Neon Frame
 description: Engage users with highlighted screenshots you're sharing on Twitter, Instagram, LinkedIn, etc.
-full_description: '<b>v1.5.0 (Apr 13, 2024)</b><br>
+full_description: '<b>v1.6.0 (May 3, 2024)</b><br>
+<br>- Integrated In-App Review API
+<br>- Minor improvements
+<br>
+<br><b>v1.5.0 (Apr 13, 2024)</b><br>
 <br>- You can remove the watermark or set your own text instead for a small one-time fee.
 <br>- New Onboarding screen.
 <br>- Minor UI improvements.
