@@ -31,8 +31,11 @@ Mobile App Landing Page Template comes with pre-installed features and options:
 
 ## ✨ Demo
 Check out websites using the Mobile App Template:
-- https://mobileapplandingpage.learn.uno (demo website)
+
 - https://neonframe.app
+- https://closetalk.app
+- https://mobileapplandingpage.learn.uno (demo website)
+
 
 ## 📖 How to use
 
