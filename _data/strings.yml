@@ -5,7 +5,7 @@ app:
   #featured: Featured in
 
 footer:
-  copyright: 🇺🇦 Made by <a href="https://bento.me/mobiledevpro" target="_blank">Dmitri Chernysh</a>
+  copyright: Made by <a href="https://bento.me/mobiledevpro" target="_blank">Dmitri Chernysh</a>
   links:
     - title: Instagram
       url: https://instagr.am/mobiledevpro?utm_source=neonframe_landing

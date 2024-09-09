@@ -1,6 +1,10 @@
-name: NeonFrame | Screenshot Editor
-description: Make eye-catching screenshots you share on Twitter, Instagram, and others. Try for free.
-full_description: '<b>v1.8.0 (July 29, 2024)</b><br>
+name: Screenshot Editor - NeonFrame
+description: Make eye-catching screenshots you share on Twitter, Instagram, and others.
+full_description: '<b>v1.8.4 (Sep 6, 2024)</b><br>
+<br>- Added support for Themed icons on Android 13+
+<br>- UI fixes and improvements
+<br>
+<br><b>v1.8.0 (July 29, 2024)</b><br>
 <br>- Auto-generated gradient
 <br>- Fixed incorrect image orientation
 <br>- Minor improvements
