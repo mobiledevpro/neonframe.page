@@ -53,6 +53,7 @@
     "@midzer/tobii": "^2.3.0",
     "darkmode-js": "^1.5.6",
     "normalize.css": "^8.0.1",
-    "producthunt-floating-prompt": "^1.0.8"
+    "producthunt-floating-prompt": "^1.0.8",
+    "sass": "^1.80.4"
   }
 }
