@@ -1,10 +1,10 @@
 {
-  "name": "Neon Frame App | Screenshot Maker App | Screenshot Editor App",
-  "short_name": "Neon Frame | Screenshot Maker | Screenshot Editor",
+  "name": "Screenshot Maker | Screenshot Editor | Screenshot Generator",
+  "short_name": "NeonFrame | Screenshot Maker | Screenshot Editor",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/neonframe.page/",
-  "description": "Make highlighted screenshots you're sharing to Twitter, Instagram, LinkedIn, etc. | Screenshot Maker | Screenshot Editor",
+  "description": "Make eye-catching screenshots with ease! Share on Twitter, Instagram, LinkedIn, and others.",
   "scope": "/",
   "theme_color": "#FF191C1D",
   "background_color": "#FF191C1D"
