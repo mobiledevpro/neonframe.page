@@ -3,14 +3,17 @@
 
 <h1 align="center">Mobile App Landing for GitHub Pages</h1>
 
-## Made for [NeonFrame.app](https://neonframe.app)
+### Made for [NeonFrame.app](https://neonframe.app)
 
-### Based on the original [template created by Sandoche](https://github.com/sandoche/Mobile-app-landingpage-template) and adapted to use with GitHub Actions:
+### based on the original [template created by Sandoche](https://github.com/sandoche/Mobile-app-landingpage-template) and adapted to use with GitHub Actions:
 ```
 .github/workflows/jekyll.yml
 ```
 
 ![Run Unit Tests](https://github.com/mobiledevpro/neonframe.page/actions/workflows/jekyll.yml/badge.svg)
+
+![Screenshot from 2025-02-19 14-24-54](https://github.com/user-attachments/assets/5626554c-7a23-4664-a111-4761875aa474)
+
 
 ### [Article how to easily make the landing with GitHub Pages](https://www.linkedin.com/pulse/beautiful-landing-mobile-app-github-pages-dmitri-chernysh-tfakf/)
 ##
