@@ -10,6 +10,8 @@
 .github/workflows/jekyll.yml
 ```
 
+![Run Unit Tests](https://github.com/mobiledevpro/neonframe.page/actions/workflows/jekyll.yml/badge.svg)
+
 ### [Article how to easily make the landing with GitHub Pages](https://www.linkedin.com/pulse/beautiful-landing-mobile-app-github-pages-dmitri-chernysh-tfakf/)
 ##
 
@@ -78,3 +80,24 @@ npm run build
 ### More documentation
 This templates uses [Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate), read more documentation there.
 
+##
+### Have suggestions? [Open the issue](https://github.com/mobiledevpro/neonframe.page/issues) or reach out to me:
+
+<a href="https://github.com/dmitriy-chernysh" target="_blank">
+  <img src="https://s.gravatar.com/avatar/72c649d298a8f0f088fd0850e19b9147?s=400" width="70" align="left">
+</a>
+
+**Dmitri Chernysh**
+
+[![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&message=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/mobiledevpro/)
+[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dmitriychernysh/)
+
+##
+### Thanks for the support
+**Stargazers**
+
+[![Stargazers repo roster for @mobiledevpro/closetalk.app](http://reporoster.com/stars/dark/mobiledevpro/neonframe.page)](https://github.com/mobiledevpro/neonframe.page/stargazers)
+
+**Forkers**
+
+[![Forkers repo roster for @mobiledevpro/closetalk.app](http://reporoster.com/forks/dark/mobiledevpro/neonframe.page)](https://github.com/mobiledevpro/neonframe.page/network/members)
