@@ -1,59 +1,55 @@
 name: Screenshot Maker - NeonFrame
-description: 🔥 Make eye-catching screenshots with ease! This lightweight app is designed to help you create screenshots to share on Twitter, Instagram, LinkedIn, and others. 👉 Install the app from Google Play. No ADs!
-full_description: '<b>v1.12.9 (March 5, 2026)</b><br>
-<br>- Added a new ration 3:4 for Instagram posts
-<br>
-<br><b>v1.12.0 (Sep 12, 2025)</b><br>
-<br>- UI improvements
-<br>- Added weekly and yearly subscription to unlock premium features
-<br>
-<br><b>v1.11.0 (Jan 17, 2025)</b><br>
-<br>- You can now take screenshots within the app
-<br>
-<br><b>v1.10.0 (Dec 26, 2024)</b><br>
-<br>- Added an intro to show you the main features in the app
-<br>
-<br><b>v1.9.0 (Oct 29, 2024)</b><br>
-<br>- Option to export images in high-quality (4k). Available in Settings.
-<br>
-<br><b>v1.8.4 (Sep 6, 2024)</b><br>
-<br>- Added support for Themed icons on Android 13+
-<br>- UI fixes and improvements
-<br>
-<br><b>v1.8.0 (July 29, 2024)</b><br>
-<br>- Auto-generated gradient
-<br>- Fixed incorrect image orientation
-<br>- Minor improvements
-<br>
-<br><b>v1.7.0 (June 18, 2024)</b><br>
-<br>- Added predefined gradient backgrounds.
-<br>
-<br><b>v1.6.0 (May 3, 2024)</b><br>
-<br>- Integrated In-App Review API
-<br>- Minor improvements
-<br>
-<br><b>v1.5.0 (Apr 13, 2024)</b><br>
-<br>- You can remove the watermark or set your own text instead for a small one-time fee.
-<br>- New Onboarding screen.
-<br>- Minor UI improvements.
-<br>
-<br><b>v1.4.0 (Mar 29, 2024)</b><br>
-<br>- Add own colors to glow and background
-<br>- Remove existing colors (long tap on color to activate a removing mode)
-<br>
-<br><b>v1.3.0 (Mar 18, 2024)</b><br>
-<br>- Added ability to receive the image from other apps via Android Sharesheet dialog
-<br>- Pinch to zoom-in/zoom-out the image when background is turned on
-<br>- Fix for splash screen on Android 12 and lower
-<br>- Minor UI fixes
-<br>
-<br><b>v1.2.0 (Mar 11, 2024)</b><br>
-<br>- Now you can add a background color and change the size: 1:1, 4:3, 9:16 for Instagram Stories, 2:1 for Twitter, 1.91:1 for LinkedIn
-<br>
-<br><b>v1.1.0 (Feb 16, 2024)</b><br>
-<br>- Added a new screen with sharing options once the image is exported
-<br>- Improved an image processing. Export takes less time now
-<br>- Added a new overview video to Google Play'
+description: Adjust image framing for stories, posts, and professional updates.
+full_description: 'Create polished screenshots for social posts, stories, and professional updates in just a few taps. 
+
+Screenshot Maker: Social Shots is a lightweight screenshot maker that helps you prepare images for sharing on Twitter, Instagram, LinkedIn, and other platforms. 
+
+Capture what is on your screen or choose an image from your device gallery, then resize and style it for the format you need.
+
+Use Screenshot Maker to present analytics, reviews, comments, questions, and other useful content in a clean, shareable layout. Whether you are preparing social posts, Instagram stories, or professional updates, the editor gives you simple controls for creating images that fit your audience and platform.
+
+WHAT YOU CAN DO
+
+• Capture a screenshot directly in the app
+• Choose images from your device gallery
+• Use pre-defined aspect ratio for stories or posts
+• Share screenshots of analytics, reviews, comments, and questions
+
+BACKGROUND OPTIONS
+
+• Select a solid background color
+• Apply a gradient background
+• Generate a gradient automatically from the colors in your image
+• Add your own background colors
+• Choose your own shadow color
+
+IMAGE STYLING
+
+• Set a shadow around the screenshot
+• Adjust the look with rounded corners
+• Combine backgrounds, shadows, and corners to create a layout that matches your content
+• Keep the focus on the image while giving it a polished presentation
+
+FORMATS FOR DIFFERENT PLATFORMS
+
+• 1:1 for square social posts
+• 4:3 for a classic landscape or portrait-friendly layout
+• 3:4 for a taller image composition
+• 9:16 for Instagram Stories
+• 2:1 for Twitter content
+• 1.91:1 for LinkedIn professional updates
+
+A SIMPLE SCREENSHOT WORKFLOW
+
+1. Capture the screen or select images from your gallery.
+2. Choose the aspect ratio for your post, story, or update.
+3. Select a solid color, a gradient, or an auto-generated background based on your image.
+4. Add a shadow, round the corners, and customize colors when needed.
+5. Save or share the finished screenshot with your audience.
+
+Screenshot Maker keeps the editing process focused and easy to follow. You can resize images for stories, social posts, and professional updates without needing a complex design tool. Create a consistent look for your screenshots while choosing the background and styling that best supports each image.
+
+Make screenshots ready for sharing on the platforms you use. Download Screenshot Maker: Social Posts to resize images, design stories, and prepare clear social content in a few taps.'
 android: https://play.google.com/store/apps/details?id=com.mobiledevpro.neonframe.app&referrer=utm_source%3Dlanding%26utm_medium%3Dlanding
 iOS: false
 web: false
